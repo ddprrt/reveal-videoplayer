@@ -1,7 +1,7 @@
 reveal-videoplayer
 ==================
 
-Plugin for reveal.js -- starts a <video> once the slide appears
+Plugin for [http://revealjs.com/](reveal.js) &mdash; starts a &lt;video&gt; once the slide appears
 
 ## Installation
 
